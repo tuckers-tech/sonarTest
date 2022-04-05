@@ -92,5 +92,10 @@ export default {
   props: {
     msg: String,
   },
+  // methods: {
+  //   example() {
+  //     console.log('testing')
+  //   }
+  // }
 };
 </script>
