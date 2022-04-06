@@ -74,14 +74,14 @@
           >vue-loader</a
         >
       </li>
-      <li>
+      <!-- <li>
         <a
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
           rel="noopener"
           >awesome-vue</a
         >
-      </li>
+      </li> -->
     </ul>
   </div>
 </template>
